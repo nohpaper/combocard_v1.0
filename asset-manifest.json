@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.1595213c.css",
-    "main.js": "/test/static/js/main.7f201253.js",
-    "static/js/592.68fb0926.chunk.js": "/test/static/js/592.68fb0926.chunk.js",
-    "static/media/NotoSansKR-Bold.woff": "/test/static/media/NotoSansKR-Bold.ab7f4321e713939dd0e6.woff",
-    "static/media/NotoSansKR-Regular.woff": "/test/static/media/NotoSansKR-Regular.3063bb5f061c3bc34f7f.woff",
-    "static/media/NotoSansKR-Light.woff": "/test/static/media/NotoSansKR-Light.5d420331bd938927b857.woff",
-    "static/media/MabinogiClassicR.woff": "/test/static/media/MabinogiClassicR.e5ceddfe0ed1090696c5.woff",
-    "static/media/combocard_bg.jpg": "/test/static/media/combocard_bg.435a3d2f24832b02866b.jpg",
-    "index.html": "/test/index.html",
-    "main.1595213c.css.map": "/test/static/css/main.1595213c.css.map",
-    "main.7f201253.js.map": "/test/static/js/main.7f201253.js.map",
-    "592.68fb0926.chunk.js.map": "/test/static/js/592.68fb0926.chunk.js.map"
+    "main.css": "/combocard_v1.0/static/css/main.1595213c.css",
+    "main.js": "/combocard_v1.0/static/js/main.7f201253.js",
+    "static/js/592.68fb0926.chunk.js": "/combocard_v1.0/static/js/592.68fb0926.chunk.js",
+    "static/media/NotoSansKR-Bold.woff": "/combocard_v1.0/static/media/NotoSansKR-Bold.ab7f4321e713939dd0e6.woff",
+    "static/media/NotoSansKR-Regular.woff": "/combocard_v1.0/static/media/NotoSansKR-Regular.3063bb5f061c3bc34f7f.woff",
+    "static/media/NotoSansKR-Light.woff": "/combocard_v1.0/static/media/NotoSansKR-Light.5d420331bd938927b857.woff",
+    "static/media/MabinogiClassicR.woff": "/combocard_v1.0/static/media/MabinogiClassicR.e5ceddfe0ed1090696c5.woff",
+    "static/media/combocard_bg.jpg": "/combocard_v1.0/static/media/combocard_bg.435a3d2f24832b02866b.jpg",
+    "index.html": "/combocard_v1.0/index.html",
+    "main.1595213c.css.map": "/combocard_v1.0/static/css/main.1595213c.css.map",
+    "main.7f201253.js.map": "/combocard_v1.0/static/js/main.7f201253.js.map",
+    "592.68fb0926.chunk.js.map": "/combocard_v1.0/static/js/592.68fb0926.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1595213c.css",
